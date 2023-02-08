@@ -47,7 +47,7 @@ ms.locfileid: "132521360"
 - ワークスペースに Azure リソース ロックを適用することはできません。 [Azure リソースのロックに関する詳細](../azure-resource-manager/management/lock-resources.md)。
 
 > [!NOTE]
-> Microsoft Azure Sentinel に UEBA 機能を追加するために特別なライセンスは必要ありませんが、**追加料金** が適用されることがあります。
+> Microsoft Azure Sentinel に UEBA 機能を追加するために特別なライセンスは必要なく、利用するための追加コストもかかりません。
 
 ## <a name="how-to-enable-user-and-entity-behavior-analytics"></a>ユーザーとエンティティの動作分析を有効にする方法
 
